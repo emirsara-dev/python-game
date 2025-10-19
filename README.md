@@ -13,7 +13,7 @@ The one who picks the last stone loses :)
 ```bash
 python main.py
 ```
-Notes:
+## Notes
 
 main.py is the entry point.
 
@@ -32,11 +32,11 @@ icon.jpg — icon image
 
 
 
-License
+## License
 
 MIT
 
-contact
+## contact
 
 Amirhossein Sarabadani — amirhosseinsarabadani@gmail.com
 
