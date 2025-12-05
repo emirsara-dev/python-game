@@ -19,15 +19,6 @@ main.py is the entry point.
 
 stones.py contains supporting game logic.
 
-Files
-main.py — game entry point
-
-stones.py — game logic module
-
-main.spec — PyInstaller spec (for building executables)
-
-icon.jpg — icon image
-
 
 
 
